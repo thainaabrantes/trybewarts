@@ -1,6 +1,6 @@
-# Trybewarts Wizarding School
+# Trybewarts Wizarding School 🧙
 
-<strong>Bem-vindo ao projeto Trybewarts Wizarding School! 🧙</strong>
+<strong>Bem-vindo ao projeto Trybewarts Wizarding School!</strong>
 
 Este projeto é uma página de formulário da Escola de Magia de Trybewarts, onde os estudantes podem enviar seus feedbacks. Inspirado na obra "Harry Potter" de J.K. Rowling, o projeto traz um toque mágico para o mundo da programação.
 
@@ -34,13 +34,13 @@ cd trybewarts
 
 3. Abra o arquivo index.html em seu navegador preferido para visualizar a página.
 
-# Tecnologias Utilizadas
+# 🧑‍💻 Tecnologias Utilizadas
 
-- HTML
-- CSS
-- JavaScript
+- `HTML`
+- `CSS`
+- `JavaScript`
 
-# Contribuição
+# 🚀 Contribuição
 
 Contribuições são bem-vindas! Para sugestões, correções de bugs ou melhorias, por favor, abra uma issue ou submeta um pull request.
 
